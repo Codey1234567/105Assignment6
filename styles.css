@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    margin: 5px;
+}
+
+body {
+    background-color: lightgray;
+    margin: 0 auto;
+}
